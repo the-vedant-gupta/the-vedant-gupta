@@ -11,7 +11,6 @@ I’m building my journey in **Data Analytics & Data Science**, where I mix curi
 - 🎓 MCA student at **Galgotias University**
 - 📚 Completed **Machine Learning & Data Science** course from GeeksforGeeks  
 - 🔍 Interested in **Data Analysis, Machine Learning, and Visualization**
-- 🧑‍🏫 Former **Chemistry Teacher & Senior Staff Coordinator**, now shifting into tech  
 - 💡 Currently exploring: Python, SQL, Pandas, and Data Visualization tools  
 
 ---
