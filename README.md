@@ -1,24 +1,33 @@
+<!--
+Hi there! You can edit this file to make it your own.
+To use it on your GitHub profile, create a new repository with the same name as your username.
+For example, if your username is "octocat", your repository should be named "octocat".
+Then, add this README.md file to that repository.
+-->
+
+<!-- You can replace this GIF with any you like! Find more at https://giphy.com/ -->
+
 <p align="center">
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zob2I5dGJwZ251eGoyMDIxa3l2cWtqZjg2dG00Z2p0ajE4eGg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
 </p>
 
 <h1 align="center">
-Hey there, I'm Vedant Gupta!
+Hey there, I'm [Your Name]!
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-I'm a passionate Data Analyst student from Galgotais University, on a mission to find meaningful stories hidden within data. <br> I love turning complex datasets into clear, actionable insights and beautiful visualizations.
+I'm a passionate Data Analyst student from India, on a mission to find meaningful stories hidden within data. <br> I love turning complex datasets into clear, actionable insights and beautiful visualizations.
 </p>
 
 🧐 About Me
-🌱 I’m currently diving deep into Machine Learning and Agentic AI.
+🌱 I’m currently diving deep into Machine Learning and Predictive Analytics.
 
 📊 I'm proficient in cleaning, analyzing, and visualizing data to drive decisions.
 
-💬 Ask me about Python for data science, SQL, or PowereBi dashboards.
+💬 Ask me about Python for data science, SQL, or Tableau dashboards.
 
-📫 You can reach me at: [vedantgupta8784@example.com]
+📫 You can reach me at: [your-email@example.com]
 
 ⚡ Fun fact: When I'm not crunching numbers, I'm probably exploring hiking trails or trying out a new recipe!
 
@@ -59,16 +68,16 @@ Here are some of the tools and technologies I work with:
 <!-- Important: Replace Your-Username with your actual GitHub username to make these stats work! -->
 
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYour-Username%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub" alt="https://github.com/the-vedant-gupta" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYour-Username%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub" alt="Your-Username's GitHub Stats" />
 <br><br>
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYour-Username%26layout%3Dcompact%26theme%3Ddracula" alt="https://github.com/the-vedant-gupta" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYour-Username%26layout%3Dcompact%26theme%3Ddracula" alt="Your-Username's Top Languages" />
 </p>
 
 🤝 Let's Connect!
 I'm always open to connecting with fellow data enthusiasts, students, and professionals. Feel free to reach out!
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="https://www.linkedin.com/in/vedantgupta05/" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Your LinkedIn Profile" /></a>
 <!-- Add other links, e.g., to a portfolio or blog -->
 <!--
 <a href="https://www.google.com/search?q=https://your-portfolio-website.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Your Portfolio Website"/></a>
