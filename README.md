@@ -1,85 +1,58 @@
-<!--
-Hi there! You can edit this file to make it your own.
-To use it on your GitHub profile, create a new repository with the same name as your username.
-For example, if your username is "octocat", your repository should be named "octocat".
-Then, add this README.md file to that repository.
--->
+# Hi there, I'm Vedant 👋  
 
-<!-- You can replace this GIF with any you like! Find more at https://giphy.com/ -->
+📊 *Aspiring Data Analyst | MCA Student | Lifelong Learner*  
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zob2I5dGJwZ251eGoyMDIxa3l2cWtqZjg2dG00Z2p0ajE4eGg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
-</p>
+Welcome to my GitHub profile!  
+I’m building my journey in **Data Analytics & Data Science**, where I mix curiosity, coding, and creativity to turn raw data into meaningful insights.  
 
-<h1 align="center">
-Hey there, I'm [Your Name]!
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
 
-<p align="center">
-I'm a passionate Data Analyst student from India, on a mission to find meaningful stories hidden within data. <br> I love turning complex datasets into clear, actionable insights and beautiful visualizations.
-</p>
+## 🚀 About Me
+- 🎓 MCA student at **Galgotias University**
+- 📚 Completed **Machine Learning & Data Science** course from GeeksforGeeks  
+- 🔍 Interested in **Data Analysis, Machine Learning, and Visualization**
+- 🧑‍🏫 Former **Chemistry Teacher & Senior Staff Coordinator**, now shifting into tech  
+- 💡 Currently exploring: Python, SQL, Pandas, and Data Visualization tools  
 
-🧐 About Me
-🌱 I’m currently diving deep into Machine Learning and Predictive Analytics.
+---
 
-📊 I'm proficient in cleaning, analyzing, and visualizing data to drive decisions.
+## 🛠️ Tech Stack
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
 
-💬 Ask me about Python for data science, SQL, or Tableau dashboards.
+---
 
-📫 You can reach me at: [your-email@example.com]
+## 📊 GitHub Stats
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-vedant-gupta&show_icons=true&theme=radical)  
 
-⚡ Fun fact: When I'm not crunching numbers, I'm probably exploring hiking trails or trying out a new recipe!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-vedant-gupta&layout=compact&theme=radical)  
 
-💻 My Tech Stack
-Here are some of the tools and technologies I work with:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-vedant-gupta&theme=radical)  
 
-<p align="left">
-<strong>Languages:</strong><br>
-<a href="#"><img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="R" src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="SQL" src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-025E8C%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite"></a>
-</p>
+---
 
-<p align="left">
-<strong>Libraries & Frameworks:</strong><br>
-<a href="#"><img alt="Pandas" src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="NumPy" src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Scikit-Learn" src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-%2523F7931E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Matplotlib" src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-%2523ffffff.svg%3Fstyle%3Dfor-the-badge%26logo%3DMatplotlib%26logoColor%3Dblack"></a>
-<a href="#"><img alt="Seaborn" src="https://www.google.com/search?q=https://img.shields.io/badge/Seaborn-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dseaborn%26logoColor%3Dwhite"></a>
-</p>
+## 🌱 What I’m Working On
+- Improving problem-solving with **real-world datasets**  
+- Building projects for my **data analytics portfolio**  
+- Sharpening **SQL querying skills**  
+- Practicing **data storytelling** with visualizations  
 
-<p align="left">
-<strong>Databases & Cloud:</strong><br>
-<a href="#"><img alt="MySQL" src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="PostgreSQL" src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Microsoft Azure" src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite"></a>
-</p>
+---
 
-<p align="left">
-<strong>BI & Visualization Tools:</strong><br>
-<a href="#"><img alt="Tableau" src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3Dtableau%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Power BI" src="https://www.google.com/search?q=https://img.shields.io/badge/PowerBI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3DPower%2520BI%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Jupyter" src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626.svg%3Fstyle%3Dfor-the-badge%26logo%3DJupyter%26logoColor%3Dwhite"></a>
-</p>
+## 📬 Let’s Connect 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantgupta05/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantgupta8784@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vedant._.gupta_/)  
 
-📊 My GitHub Stats
-<!-- Important: Replace Your-Username with your actual GitHub username to make these stats work! -->
+---
 
-<p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYour-Username%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub" alt="Your-Username's GitHub Stats" />
-<br><br>
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYour-Username%26layout%3Dcompact%26theme%3Ddracula" alt="Your-Username's Top Languages" />
-</p>
-
-🤝 Let's Connect!
-I'm always open to connecting with fellow data enthusiasts, students, and professionals. Feel free to reach out!
-
-<p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Your LinkedIn Profile" /></a>
-<!-- Add other links, e.g., to a portfolio or blog -->
-<!--
-<a href="https://www.google.com/search?q=https://your-portfolio-website.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Your Portfolio Website"/></a>
--->
-</p>
+⭐️ *Thanks for stopping by! Feel free to explore my repos and connect if you share the same interests.*  
