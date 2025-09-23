@@ -1,22 +1,76 @@
-## 🌸Hey there, I’m so glad you’re here!
+<p align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zob2I5dGJwZ251eGoyMDIxa3l2cWtqZjg2dG00Z2p0ajE4eGg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
+</p>
 
-Welcome to my little corner of GitHub!  
-I’m passionate about growing in my career, picking up new tech skills, and making work life a *little* less overwhelming (and a lot more fun). Here, you'll find:
+<h1 align="center">
+Hey there, I'm Vedant Gupta!
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🛠️ Projects I’m building or contributing to  
-- 📚 Things I’ve learned while juggling work, deadlines, and debugging  
-- 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle  
+<p align="center">
+I'm a passionate Data Analyst student from Galgotais University, on a mission to find meaningful stories hidden within data. <br> I love turning complex datasets into clear, actionable insights and beautiful visualizations.
+</p>
 
-Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
+🧐 About Me
+🌱 I’m currently diving deep into Machine Learning and Agentic AI.
 
-**Let’s connect, learn, and grow together—one repo at a time.**  
-You bring the snacks, I’ll bring the code 🍪💻
+📊 I'm proficient in cleaning, analyzing, and visualizing data to drive decisions.
 
+💬 Ask me about Python for data science, SQL, or PowereBi dashboards.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vedant._.gupta_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantgupta05/)  
+📫 You can reach me at: [vedantgupta8784@example.com]
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+⚡ Fun fact: When I'm not crunching numbers, I'm probably exploring hiking trails or trying out a new recipe!
 
+💻 My Tech Stack
+Here are some of the tools and technologies I work with:
 
+<p align="left">
+<strong>Languages:</strong><br>
+<a href="#"><img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="R" src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="SQL" src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-025E8C%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite"></a>
+</p>
+
+<p align="left">
+<strong>Libraries & Frameworks:</strong><br>
+<a href="#"><img alt="Pandas" src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="NumPy" src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="Scikit-Learn" src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-%2523F7931E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="Matplotlib" src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-%2523ffffff.svg%3Fstyle%3Dfor-the-badge%26logo%3DMatplotlib%26logoColor%3Dblack"></a>
+<a href="#"><img alt="Seaborn" src="https://www.google.com/search?q=https://img.shields.io/badge/Seaborn-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dseaborn%26logoColor%3Dwhite"></a>
+</p>
+
+<p align="left">
+<strong>Databases & Cloud:</strong><br>
+<a href="#"><img alt="MySQL" src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="PostgreSQL" src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="Microsoft Azure" src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite"></a>
+</p>
+
+<p align="left">
+<strong>BI & Visualization Tools:</strong><br>
+<a href="#"><img alt="Tableau" src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3Dtableau%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="Power BI" src="https://www.google.com/search?q=https://img.shields.io/badge/PowerBI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3DPower%2520BI%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="Jupyter" src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626.svg%3Fstyle%3Dfor-the-badge%26logo%3DJupyter%26logoColor%3Dwhite"></a>
+</p>
+
+📊 My GitHub Stats
+<!-- Important: Replace Your-Username with your actual GitHub username to make these stats work! -->
+
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYour-Username%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub" alt="https://github.com/the-vedant-gupta" />
+<br><br>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYour-Username%26layout%3Dcompact%26theme%3Ddracula" alt="https://github.com/the-vedant-gupta" />
+</p>
+
+🤝 Let's Connect!
+I'm always open to connecting with fellow data enthusiasts, students, and professionals. Feel free to reach out!
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="https://www.linkedin.com/in/vedantgupta05/" /></a>
+<!-- Add other links, e.g., to a portfolio or blog -->
+<!--
+<a href="https://www.google.com/search?q=https://your-portfolio-website.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Your Portfolio Website"/></a>
+-->
+</p>
