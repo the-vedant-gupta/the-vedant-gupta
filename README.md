@@ -18,7 +18,7 @@ Designing agentic products and decision systems that turn experimentation into d
 
 <br />
 
-<a href="https://www.linkedin.com/in/vedantgupta05/">
+<a href="https://www.linkedin.com/in/vedantgupta-ai/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 <a href="mailto:vedantgupta8784@gmail.com">
@@ -195,28 +195,6 @@ The best product systems are shaped by strong reasoning, clear trade-offs, and g
 </div>
 
 ---
-
-## Connect
-
-If you are building reliable AI systems, AI product workflows, or thoughtful internal tooling, I’d be glad to connect.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vedantgupta05/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="https://x.com/vedantgupta05">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-</a>
-<a href="mailto:vedantgupta8784@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Write an email" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
 
 ### Building Reliable AI Systems Through First-Principles Thinking
 
