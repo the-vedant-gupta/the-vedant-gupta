@@ -1,8 +1,14 @@
 <!--
   PROFILE README CUSTOMIZATION GUIDE
-  1. Replace every URL marked with [REPLACE_*].
-  2. Add repository links in the Featured Work section when projects are published.
-  3. Keep the comments if you want future editing guidance; GitHub hides them from visitors.
+  Replace every value marked REPLACE_* before publishing:
+  - REPLACE_LINKEDIN_USERNAME
+  - REPLACE_X_USERNAME
+  - REPLACE_EMAIL
+  - REPLACE_TRIAGE_REPOSITORY
+  - REPLACE_PROJECTS_REPOSITORY
+
+  Keep this file intentionally lightweight: GitHub renders Markdown, selected HTML,
+  and externally hosted images, but does not run JavaScript inside README files.
 -->
 
 <div align="center">
@@ -11,11 +17,21 @@
 
 ### AI-Native Engineer · Agent Systems · Reliability
 
-*Building agents from first principles.*
+**Building agents from first principles.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([REPLACE_LINKEDIN_URL](https://www.linkedin.com/in/vedantgupta05/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[REPLACE_EMAIL](vedantgupta8784@gmail.com))
-[![Profile Views](https://komarev.com/ghpvc/?username=the-vedant-gupta&style=flat-square&color=6E56CF)](https://github.com/the-vedant-gupta)
+Designing intelligent systems that are understandable, measurable, and dependable in production.
+
+<br />
+
+<a href="https://www.linkedin.com/in/REPLACE_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:REPLACE_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send an email" />
+</a>
+<a href="https://github.com/the-vedant-gupta">
+  <img src="https://komarev.com/ghpvc/?username=the-vedant-gupta&style=flat-square&color=6E56CF&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
 
 </div>
 
@@ -23,9 +39,9 @@
 
 ## A systems-minded approach to AI
 
-I am an MCA student at **Galgotias University** exploring how intelligent systems can move from impressive demos to dependable production software.
+I am an MCA student at **Galgotias University** exploring how intelligent systems move from impressive demos to dependable software.
 
-My work sits at the intersection of **agentic AI, architecture, decision-making under uncertainty, and evaluation**. I care about understanding the foundations—then turning those foundations into systems that are observable, testable, and useful.
+My work sits at the intersection of **agentic AI, architecture, decision-making under uncertainty, and evaluation**. I care about the foundations behind the interface—and about turning those foundations into systems that can be observed, tested, improved, and trusted.
 
 > **Learn. Build. Improve. Repeat.**
 
@@ -33,39 +49,77 @@ My work sits at the intersection of **agentic AI, architecture, decision-making 
 
 ## Current focus
 
-| Area | What I am exploring |
-| --- | --- |
-| **Agent architecture** | Designing agents with explicit state, boundaries, and reliable control loops |
-| **Evaluation frameworks** | Measuring quality, correctness, regressions, and real-world task success |
-| **Guardrails** | Building safe interfaces, validation layers, and failure-aware workflows |
-| **Probabilistic systems** | Reasoning about uncertainty instead of hiding it behind confident outputs |
-| **AI reliability** | Observability, reproducibility, fallbacks, and production-grade behavior |
-| **Decision intelligence** | Helping systems choose actions with context, constraints, and evidence |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Agent architecture</h3>
+      Explicit state, clear boundaries, and reliable control loops.
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Evaluation frameworks</h3>
+      Measuring quality, correctness, regressions, and task success.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Guardrails</h3>
+      Safe interfaces, validation layers, and failure-aware workflows.
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Probabilistic systems</h3>
+      Reasoning about uncertainty instead of hiding it behind confidence.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · AI reliability</h3>
+      Observability, reproducibility, fallbacks, and production behavior.
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 · Decision intelligence</h3>
+      Choosing actions with context, constraints, and evidence.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## The agent blueprint
 
+<div align="center">
+
 ```text
-┌───────────┐     ┌──────────┐     ┌────────┐
-│ Reasoning │ ──▶ │ Planning │ ──▶ │ Memory │
-└───────────┘     └──────────┘     └───┬────┘
-                                       │
-                                       ▼
-                                  ┌────────┐
-                                  │ Tools  │
-                                  └───┬────┘
-                                      │
-                                      ▼
-                               ┌────────────┐
-                               │ Evaluation │
-                               └─────┬──────┘
-                                     │
-                                     ▼
-                           ┌──────────────────┐
-                           │ Reliable Agents  │
-                           └──────────────────┘
+┌───────────┐
+│ Reasoning │
+└─────┬─────┘
+      │
+      ▼
+┌──────────┐
+│ Planning │
+└────┬─────┘
+     │
+     ▼
+┌────────┐
+│ Memory │
+└───┬────┘
+    │
+    ▼
+┌────────┐
+│ Tools  │
+└───┬────┘
+    │
+    ▼
+┌────────────┐
+│ Evaluation │
+└─────┬──────┘
+      │
+      ▼
+┌──────────────────┐
+│ Reliable Agents  │
+└──────────────────┘
 ```
+
+</div>
 
 The goal is not merely to make an agent *act*. It is to make its behavior understandable, measurable, and progressively better.
 
@@ -73,7 +127,7 @@ The goal is not merely to make an agent *act*. It is to make its behavior unders
 
 ## Featured work
 
-<!-- Replace each placeholder repository URL when the project is public. -->
+<!-- Replace the repository URLs below when the projects are public. -->
 
 ### Triage Appointment Agent
 
@@ -85,7 +139,7 @@ The goal is not merely to make an agent *act*. It is to make its behavior unders
 | **Approach** | Structured intake, tool-aware orchestration, validation, escalation paths, and evaluation-driven iteration. |
 | **Status** | `In progress` |
 | **Key concepts** | Agent orchestration · Guardrails · Decision-making under uncertainty · Evaluation |
-| **Repository** | [View project →]([REPLACE_TRIAGE_REPOSITORY_URL](https://github.com/the-vedant-gupta)) |
+| **Repository** | [View project →](https://github.com/the-vedant-gupta/REPLACE_TRIAGE_REPOSITORY) |
 
 ### Future Agent Projects
 
@@ -97,7 +151,7 @@ The goal is not merely to make an agent *act*. It is to make its behavior unders
 | **Approach** | Small, reproducible experiments covering memory, RAG, tool use, reliability, and evaluation. |
 | **Status** | `Roadmap` |
 | **Key concepts** | AI architecture · RAG · Probabilistic reasoning · System design |
-| **Repository** | [Projects index →]([REPLACE_PROJECTS_REPOSITORY_URL](https://github.com/the-vedant-gupta)) |
+| **Repository** | [Projects index →](https://github.com/the-vedant-gupta/REPLACE_PROJECTS_REPOSITORY) |
 
 <details>
 <summary><strong>Project standards</strong></summary>
@@ -119,11 +173,11 @@ I prefer tools that make system behavior explicit and maintainable rather than c
 
 | Layer | Tools |
 | --- | --- |
-| **Application** | Python · FastAPI |
-| **Intelligence** | LLMs · Prompt design · Agent orchestration |
-| **Knowledge** | RAG · Embeddings · Vector databases |
-| **Data** | PostgreSQL · SQL |
-| **Delivery** | Docker · Git · GitHub |
+| **Application** | `Python` · `FastAPI` |
+| **Intelligence** | `LLMs` · Prompt design · Agent orchestration |
+| **Knowledge** | `RAG` · Embeddings · Vector databases |
+| **Data** | `PostgreSQL` · `SQL` |
+| **Delivery** | `Docker` · `Git` · `GitHub` |
 
 ---
 
@@ -131,13 +185,15 @@ I prefer tools that make system behavior explicit and maintainable rather than c
 
 A strong system is shaped by the reasoning behind it. I use this space to document the work—not just the final code.
 
-- **Research notes** — distilled ideas from papers, documentation, and experiments
-- **Experiments** — small tests that isolate one hypothesis or system behavior
-- **Papers** — practical takeaways and implementation questions
-- **Decision records** — why a design choice was made, including trade-offs
-- **System designs** — architecture sketches for reliable AI workflows
+| Practice | What it captures |
+| --- | --- |
+| **Research notes** | Distilled ideas from papers, documentation, and experiments |
+| **Experiments** | Small tests that isolate one hypothesis or system behavior |
+| **Papers** | Practical takeaways and implementation questions |
+| **Decision records** | Why a design choice was made, including trade-offs |
+| **System designs** | Architecture sketches for reliable AI workflows |
 
-<!-- Add links to a notes repository, `/docs`, or individual posts as they become available. -->
+<!-- Add links to a notes repository, /docs, or individual posts as they become available. -->
 
 ---
 
@@ -146,21 +202,28 @@ A strong system is shaped by the reasoning behind it. I use this space to docume
 <div align="center">
 
 <a href="https://github.com/the-vedant-gupta">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-vedant-gupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=6E56CF&rank_icon=github" alt="Vedant's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-vedant-gupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=6E56CF&include_all_commits=true" alt="Vedant's GitHub statistics" />
 </a>
 <a href="https://github.com/the-vedant-gupta">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-vedant-gupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-vedant-gupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" alt="Most used languages" />
 </a>
 
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-vedant-gupta&hide_border=true&background=0D1117&ring=6E56CF&fire=F0883E&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
 
-</div>
-
-<!-- Optional: replace the graph below with your preferred contribution-graph provider if needed. -->
+<br />
 
 [![Vedant's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=the-vedant-gupta&bg_color=0D1117&color=8B949E&line=6E56CF&point=FFFFFF&area=true&hide_border=true)](https://github.com/the-vedant-gupta)
+
+</div>
+
+<details>
+<summary><strong>What these signals mean</strong></summary>
+
+These widgets are lightweight indicators of consistency and activity—not substitutes for thoughtful projects, clear documentation, or useful engineering outcomes.
+
+</details>
 
 ---
 
@@ -170,13 +233,19 @@ If you are working on reliable AI, agent evaluation, or thoughtful developer too
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([REPLACE_LINKEDIN_URL](https://www.linkedin.com/in/vedantgupta05/))
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)]([REPLACE_X_URL](https://x.com/REPLACE_USERNAME))
-[![Email](https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[REPLACE_EMAIL](vedantgupta8784@gmail.com))
+<a href="https://www.linkedin.com/in/REPLACE_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://x.com/REPLACE_X_USERNAME">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
+</a>
+<a href="mailto:REPLACE_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Write an email" />
+</a>
 
 </div>
 
-<!-- Replace the X/Twitter URL above with your real profile before publishing. -->
+<!-- Replace the LinkedIn, X, email, and repository placeholders before publishing. -->
 
 <br />
 
