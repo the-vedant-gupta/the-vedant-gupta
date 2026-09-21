@@ -1,14 +1,7 @@
 <!--
   PROFILE README CUSTOMIZATION GUIDE
-  Replace every value marked REPLACE_* before publishing:
-  - REPLACE_LINKEDIN_USERNAME
-  - REPLACE_X_USERNAME
-  - REPLACE_EMAIL
-  - REPLACE_TRIAGE_REPOSITORY
-  - REPLACE_PROJECTS_REPOSITORY
-
-  Keep this file intentionally lightweight: GitHub renders Markdown, selected HTML,
-  and externally hosted images, but does not run JavaScript inside README files.
+  Replace project repository URLs when public projects are published.
+  The social links below are already set to the current profile information.
 -->
 
 <div align="center">
@@ -23,10 +16,10 @@ Designing intelligent systems that are understandable, measurable, and dependabl
 
 <br />
 
-<a href="https://www.linkedin.com/in/REPLACE_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/vedantgupta05/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="mailto:REPLACE_EMAIL@example.com">
+<a href="mailto:vedantgupta8784@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
 <a href="https://github.com/the-vedant-gupta">
@@ -127,7 +120,7 @@ The goal is not merely to make an agent *act*. It is to make its behavior unders
 
 ## Featured work
 
-<!-- Replace the repository URLs below when the projects are public. -->
+<!-- Replace project URLs below when public repositories are available. -->
 
 ### Triage Appointment Agent
 
@@ -139,7 +132,7 @@ The goal is not merely to make an agent *act*. It is to make its behavior unders
 | **Approach** | Structured intake, tool-aware orchestration, validation, escalation paths, and evaluation-driven iteration. |
 | **Status** | `In progress` |
 | **Key concepts** | Agent orchestration · Guardrails · Decision-making under uncertainty · Evaluation |
-| **Repository** | [View project →](https://github.com/the-vedant-gupta/REPLACE_TRIAGE_REPOSITORY) |
+| **Repository** | [View project →](https://github.com/the-vedant-gupta) |
 
 ### Future Agent Projects
 
@@ -151,7 +144,7 @@ The goal is not merely to make an agent *act*. It is to make its behavior unders
 | **Approach** | Small, reproducible experiments covering memory, RAG, tool use, reliability, and evaluation. |
 | **Status** | `Roadmap` |
 | **Key concepts** | AI architecture · RAG · Probabilistic reasoning · System design |
-| **Repository** | [Projects index →](https://github.com/the-vedant-gupta/REPLACE_PROJECTS_REPOSITORY) |
+| **Repository** | [Projects index →](https://github.com/the-vedant-gupta) |
 
 <details>
 <summary><strong>Project standards</strong></summary>
@@ -233,19 +226,19 @@ If you are working on reliable AI, agent evaluation, or thoughtful developer too
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/REPLACE_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/vedantgupta05/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="https://x.com/REPLACE_X_USERNAME">
+<a href="https://x.com/vedantgupta05">
   <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
 </a>
-<a href="mailto:REPLACE_EMAIL@example.com">
+<a href="mailto:vedantgupta8784@gmail.com">
   <img src="https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Write an email" />
 </a>
 
 </div>
 
-<!-- Replace the LinkedIn, X, email, and repository placeholders before publishing. -->
+<!-- Replace the X username only if you prefer a different handle. -->
 
 <br />
 
