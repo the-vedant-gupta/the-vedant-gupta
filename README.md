@@ -1,18 +1,20 @@
 <!--
   PROFILE README CUSTOMIZATION GUIDE
-  Replace project repository URLs when public projects are published.
-  The social links below are already set to the current profile information.
+  Replace these links when the project repositories are public:
+  - Triage Appointment Agent repo
+  - Future Agent Projects repo
+  - LinkedIn and X handles remain live
 -->
 
 <div align="center">
 
 # Vedant Gupta
 
-### AI-Native Engineer · Agent Systems · Reliability
+### AI-Native Engineer · Product Systems · Reliability
 
-**Building agents from first principles.**
+**I build AI systems that are useful, observable, and production-ready.**
 
-Designing intelligent systems that are understandable, measurable, and dependable in production.
+Designing agentic products and decision systems that turn experimentation into dependable software.
 
 <br />
 
@@ -30,105 +32,86 @@ Designing intelligent systems that are understandable, measurable, and dependabl
 
 ---
 
-## A systems-minded approach to AI
+## Building AI products from first principles
 
-I am an MCA student at **Galgotias University** exploring how intelligent systems move from impressive demos to dependable software.
+I’m an MCA student at **Galgotias University** focused on building AI systems that move beyond demos and into real workflows.
 
-My work sits at the intersection of **agentic AI, architecture, decision-making under uncertainty, and evaluation**. I care about the foundations behind the interface—and about turning those foundations into systems that can be observed, tested, improved, and trusted.
+My work sits at the intersection of **agentic AI, product thinking, system design, and evaluation**. I care about the decisions behind the system: how the workflow is structured, how uncertainty is handled, how failure is measured, and how reliability becomes part of the product itself.
 
 > **Learn. Build. Improve. Repeat.**
 
 ---
 
-## Current focus
+## What I care about
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>01 · Agent architecture</h3>
-      Explicit state, clear boundaries, and reliable control loops.
+    <td width="33%" valign="top">
+      <h3>Agent systems</h3>
+      Making autonomous workflows that are understandable, controllable, and measurable.
     </td>
-    <td width="50%" valign="top">
-      <h3>02 · Evaluation frameworks</h3>
-      Measuring quality, correctness, regressions, and task success.
+    <td width="33%" valign="top">
+      <h3>Product thinking</h3>
+      Designing AI features around real user outcomes, constraints, and operational risk.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · Guardrails</h3>
-      Safe interfaces, validation layers, and failure-aware workflows.
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · Probabilistic systems</h3>
-      Reasoning about uncertainty instead of hiding it behind confidence.
+    <td width="33%" valign="top">
+      <h3>Reliability</h3>
+      Observability, fallback paths, validation loops, and production-grade behavior.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>05 · AI reliability</h3>
-      Observability, reproducibility, fallbacks, and production behavior.
+    <td width="33%" valign="top">
+      <h3>Evaluation</h3>
+      Turning subjective AI quality into actionable, testable signals.
     </td>
-    <td width="50%" valign="top">
-      <h3>06 · Decision intelligence</h3>
-      Choosing actions with context, constraints, and evidence.
+    <td width="33%" valign="top">
+      <h3>Guardrails</h3>
+      Keeping models aligned with business logic, constraints, and user trust.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Decision systems</h3>
+      Helping systems reason under uncertainty instead of pretending certainty.
     </td>
   </tr>
 </table>
 
 ---
 
-## The agent blueprint
+## Product operating model
 
 <div align="center">
 
 ```text
-┌───────────┐
-│ Reasoning │
-└─────┬─────┘
-      │
-      ▼
-┌──────────┐
-│ Planning │
-└────┬─────┘
-     │
-     ▼
-┌────────┐
-│ Memory │
-└───┬────┘
-    │
-    ▼
-┌────────┐
-│ Tools  │
-└───┬────┘
-    │
-    ▼
-┌────────────┐
-│ Evaluation │
-└─────┬──────┘
-      │
-      ▼
-┌──────────────────┐
-│ Reliable Agents  │
-└──────────────────┘
+Reasoning
+   ↓
+Planning
+   ↓
+Memory
+   ↓
+Tools
+   ↓
+Evaluation
+   ↓
+Reliable Product Systems
 ```
 
 </div>
 
-The goal is not merely to make an agent *act*. It is to make its behavior understandable, measurable, and progressively better.
+The point of an agent is not just action. It is a system that can be reasoned about, evaluated, and improved in production.
 
 ---
 
 ## Featured work
 
-<!-- Replace project URLs below when public repositories are available. -->
+<!-- Replace repo links once public projects are launched. -->
 
 ### Triage Appointment Agent
 
-> An agentic workflow for turning ambiguous patient requests into structured, constraint-aware appointment decisions.
+> A decision-support workflow for handling ambiguous patient requests with structure, guardrails, and escalation logic.
 
 | | |
 | --- | --- |
-| **Problem** | Appointment requests contain missing context, conflicting constraints, and high costs for incorrect decisions. |
+| **Problem** | Appointment requests often contain missing context, competing constraints, and costly decision risk. |
 | **Approach** | Structured intake, tool-aware orchestration, validation, escalation paths, and evaluation-driven iteration. |
 | **Status** | `In progress` |
 | **Key concepts** | Agent orchestration · Guardrails · Decision-making under uncertainty · Evaluation |
@@ -136,38 +119,38 @@ The goal is not merely to make an agent *act*. It is to make its behavior unders
 
 ### Future Agent Projects
 
-> A growing collection of focused experiments designed to test one system idea at a time.
+> A portfolio of focused experiments designed to test one system idea at a time, with product discipline behind each one.
 
 | | |
 | --- | --- |
-| **Problem** | Production AI requires more than a prompt: it needs clear interfaces, controlled behavior, and evidence of quality. |
-| **Approach** | Small, reproducible experiments covering memory, RAG, tool use, reliability, and evaluation. |
+| **Problem** | AI products need more than prompts—they need interfaces, constraints, and evidence of quality. |
+| **Approach** | Modular experiments across memory, retrieval, tool use, reliability, and orchestration. |
 | **Status** | `Roadmap` |
 | **Key concepts** | AI architecture · RAG · Probabilistic reasoning · System design |
 | **Repository** | [Projects index →](https://github.com/the-vedant-gupta) |
 
 <details>
-<summary><strong>Project standards</strong></summary>
+<summary><strong>How I evaluate product quality</strong></summary>
 
-Every serious project should answer:
+Every system I build asks:
 
-- What decision or workflow does this system improve?
-- What can go wrong, and how is failure detected?
-- What evidence demonstrates that the system works?
+- What workflow or decision does it improve?
+- Where can it fail, and how do we detect that quickly?
+- What evidence shows it works in practice?
 - How can another engineer reproduce and extend it?
 
 </details>
 
 ---
 
-## Technology ecosystem
+## Stack and systems I work with
 
-I prefer tools that make system behavior explicit and maintainable rather than collecting technologies for their own sake.
+I prefer tools that make system behavior explicit, testable, and maintainable.
 
 | Layer | Tools |
 | --- | --- |
 | **Application** | `Python` · `FastAPI` |
-| **Intelligence** | `LLMs` · Prompt design · Agent orchestration |
+| **AI / Product** | `LLMs` · Agent workflows · Prompt architecture |
 | **Knowledge** | `RAG` · Embeddings · Vector databases |
 | **Data** | `PostgreSQL` · `SQL` |
 | **Delivery** | `Docker` · `Git` · `GitHub` |
@@ -176,17 +159,17 @@ I prefer tools that make system behavior explicit and maintainable rather than c
 
 ## Learning in public
 
-A strong system is shaped by the reasoning behind it. I use this space to document the work—not just the final code.
+The best product systems are shaped by strong reasoning, clear trade-offs, and good feedback loops.
 
-| Practice | What it captures |
+| Practice | Purpose |
 | --- | --- |
-| **Research notes** | Distilled ideas from papers, documentation, and experiments |
-| **Experiments** | Small tests that isolate one hypothesis or system behavior |
-| **Papers** | Practical takeaways and implementation questions |
-| **Decision records** | Why a design choice was made, including trade-offs |
-| **System designs** | Architecture sketches for reliable AI workflows |
+| **Research notes** | Distilling ideas from papers and practical experiments |
+| **Experiments** | Testing one hypothesis at a time |
+| **Papers** | Capturing implementation takeaways and design questions |
+| **Decision records** | Documenting trade-offs and rationale |
+| **System designs** | Sketching workflows that scale with reliability |
 
-<!-- Add links to a notes repository, /docs, or individual posts as they become available. -->
+<!-- Add notes repo links or posts as they become available. -->
 
 ---
 
@@ -211,18 +194,11 @@ A strong system is shaped by the reasoning behind it. I use this space to docume
 
 </div>
 
-<details>
-<summary><strong>What these signals mean</strong></summary>
-
-These widgets are lightweight indicators of consistency and activity—not substitutes for thoughtful projects, clear documentation, or useful engineering outcomes.
-
-</details>
-
 ---
 
 ## Connect
 
-If you are working on reliable AI, agent evaluation, or thoughtful developer tooling, I would enjoy comparing notes.
+If you are building reliable AI systems, AI product workflows, or thoughtful internal tooling, I’d be glad to connect.
 
 <div align="center">
 
@@ -237,8 +213,6 @@ If you are working on reliable AI, agent evaluation, or thoughtful developer too
 </a>
 
 </div>
-
-<!-- Replace the X username only if you prefer a different handle. -->
 
 <br />
 
